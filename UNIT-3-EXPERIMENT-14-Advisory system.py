@@ -17,3 +17,5 @@ elif interest == "data analysis" or interest == "2":
 
 elif interest == "cyber security" or interest == "3":
     print("Recommended Elective: Network Security")
+else:
+    print("Sorry, no course recommendation available.")
